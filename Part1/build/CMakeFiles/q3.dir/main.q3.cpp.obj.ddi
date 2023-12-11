@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles\\q3.dir\\main.q3.cpp.obj",
+      "requires": [
+        {
+          "logical-name": "math"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

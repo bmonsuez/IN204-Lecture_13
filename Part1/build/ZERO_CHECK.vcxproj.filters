@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bruno Monsuez\Documents\Documents\L'ENSTA\Enseignement\Cursus Ingénieur\2ième année\IN204\2023\Séance 13\Part1\build\CMakeFiles\f6f364c0fde5ac6000422d1d12fdc495\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FB389426-6418-3F98-80D4-16A5243A4AFF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

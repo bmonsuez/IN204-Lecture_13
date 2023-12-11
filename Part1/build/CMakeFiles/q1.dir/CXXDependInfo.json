@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "MSVC",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/q1.dir/math.q1.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "cxx_modules",
+			"relative-directory" : "",
+			"source" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/math.q1.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/build",
+	"dir-cur-src" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1",
+	"dir-top-bld" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/build",
+	"dir-top-src" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/build/CMakeFiles/q1.dir"
+}

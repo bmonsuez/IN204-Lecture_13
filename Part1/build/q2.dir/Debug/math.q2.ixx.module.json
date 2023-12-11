@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "q2.dir\\Debug\\math.q2.obj",
+            "outputs": [
+                "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\build\\q2.dir\\Debug\\vc143.pdb",
+                "q2.dir\\Debug\\",
+                "q2.dir\\Debug\\math.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "math",
+                    "source-path": "c:\\users\\bruno monsuez\\documents\\documents\\l'ensta\\enseignement\\cursus ingénieur\\2ième année\\in204\\2023\\séance 13\\part1\\math.q2.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

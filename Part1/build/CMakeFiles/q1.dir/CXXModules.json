@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"math" : 
+		{
+			"bmi" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/build/CMakeFiles/q1.dir/math.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"math" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/q1.dir/math.pcm"
+		}
+	},
+	"usages" : {}
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Bruno Monsuez\Documents\Documents\L'ENSTA\Enseignement\Cursus Ingénieur\2ième année\IN204\2023\Séance 13\Part1\main.q2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bruno Monsuez\Documents\Documents\L'ENSTA\Enseignement\Cursus Ingénieur\2ième année\IN204\2023\Séance 13\Part1\math.q2.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bruno Monsuez\Documents\Documents\L'ENSTA\Enseignement\Cursus Ingénieur\2ième année\IN204\2023\Séance 13\Part1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8E44D9B2-9484-382D-AF62-CD9F1969278A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

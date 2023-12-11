@@ -1,0 +1,10 @@
+^C:\USERS\BRUNO MONSUEZ\DOCUMENTS\DOCUMENTS\L'ENSTA\ENSEIGNEMENT\CURSUS INGÉNIEUR\2IÈME ANNÉE\IN204\2023\SÉANCE 13\PART1\BUILD\CMAKEFILES\F6F364C0FDE5AC6000422D1D12FDC495\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1" "-BC:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build/part1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "part1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "q1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q1-Debug-19ad02aa2cb92dcb01e1.json",
+					"name" : "q1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "q2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q2-Debug-cb878b5b44b001ff44f0.json",
+					"name" : "q2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "q3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-q3-Debug-f279b320cf43f3db943d.json",
+					"name" : "q3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1/build",
+		"source" : "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ing\u00e9nieur/2i\u00e8me ann\u00e9e/IN204/2023/S\u00e9ance 13/Part1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

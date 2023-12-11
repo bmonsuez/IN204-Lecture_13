@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "q3.dir\\Debug\\concepts_5X5V4PRQ3P2W446H.obj",
+            "outputs": [
+                "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\build\\q3.dir\\Debug\\vc143.pdb",
+                "q3.dir\\Debug\\concepts_5X5V4PRQ3P2W446H.module.json",
+                "q3.dir\\Debug\\concepts_5X5V4PRQ3P2W446H.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33218\\include\\concepts",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.39.33218\\include\\concepts",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

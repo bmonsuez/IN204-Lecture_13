@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/q1.dir/main.q1.cpp.obj: dyndep | CMakeFiles/q1.dir/math.pcm
+
+build CMakeFiles/q1.dir/math.q1.ixx.obj | CMakeFiles/q1.dir/math.pcm: dyndep
+  restat = 1
+

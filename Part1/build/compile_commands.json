@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q1.dir\\main.q1.cpp.obj.modmap -o CMakeFiles\\q1.dir\\main.q1.cpp.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q1.cpp\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q1.cpp",
+  "output": "CMakeFiles\\q1.dir\\main.q1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q1.dir\\math.q1.ixx.obj.modmap -o CMakeFiles\\q1.dir\\math.q1.ixx.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q1.ixx\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q1.ixx",
+  "output": "CMakeFiles\\q1.dir\\math.q1.ixx.obj"
+},
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q2.dir\\main.q2.cpp.obj.modmap -o CMakeFiles\\q2.dir\\main.q2.cpp.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q2.cpp\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q2.cpp",
+  "output": "CMakeFiles\\q2.dir\\main.q2.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q2.dir\\math.q2.ixx.obj.modmap -o CMakeFiles\\q2.dir\\math.q2.ixx.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q2.ixx\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q2.ixx",
+  "output": "CMakeFiles\\q2.dir\\math.q2.ixx.obj"
+},
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q3.dir\\main.q3.cpp.obj.modmap -o CMakeFiles\\q3.dir\\main.q3.cpp.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q3.cpp\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\main.q3.cpp",
+  "output": "CMakeFiles\\q3.dir\\main.q3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bruno Monsuez/Documents/Documents/L'ENSTA/Enseignement/Cursus Ingénieur/2ième année/IN204/2023/Séance 13/Part1/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\Preview\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview @CMakeFiles\\q3.dir\\math.q3.ixx.obj.modmap -o CMakeFiles\\q3.dir\\math.q3.ixx.obj -c \"C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q3.ixx\"",
+  "file": "C:\\Users\\Bruno Monsuez\\Documents\\Documents\\L'ENSTA\\Enseignement\\Cursus Ingénieur\\2ième année\\IN204\\2023\\Séance 13\\Part1\\math.q3.ixx",
+  "output": "CMakeFiles\\q3.dir\\math.q3.ixx.obj"
+}
+]
